@@ -25,5 +25,5 @@ This project is a **wearable device** that uses an **MPU6050** sensor to detect 
 ```bash
 git clone https://github.com/username/deadlift-wearable.git
 cd deadlift-wearable
-
-2️⃣ **Clone the Repository**
+```
+2️⃣ Install Python Dependencies
