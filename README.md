@@ -26,4 +26,22 @@ This project is a **wearable device** that uses an **MPU6050** sensor to detect 
 git clone https://github.com/username/deadlift-wearable.git
 cd deadlift-wearable
 ```
+
 2️⃣ Install Python Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+3️⃣ Upload Code to ESP32
+Use Arduino IDE or PlatformIO to flash the firmware to the ESP32.
+
+4️⃣ Train the Machine Learning Model
+```bash
+python scripts/train_model.py
+```
+🏆 Testing Results
+📊 **SVM Model Accuracy: 99.23% (With Accelerometer Data Only)**
+📊 **Real Implementation: 94.4% (Tested on 6 participants, 6 trials each)**
+
+📌 Contributors
+👨‍💻 Alif Akbar Grafidi - Universitas Brawijaya
