@@ -39,9 +39,9 @@ Use Arduino IDE or PlatformIO to flash the firmware to the ESP32.
 ```bash
 python scripts/train_model.py
 ```
-##🏆 Testing Results
-📊 **SVM Model Accuracy: 99.23% (With Accelerometer Data Only)**
-📊 **Real Implementation: 94.4% (Tested on 6 participants, 6 trials each)**
+##🏆 Testing Results  
+📊 **SVM Model Accuracy: 99.23% (With Accelerometer Data Only)**  
+📊 **Real Implementation: 94.4% (Tested on 6 participants, 6 trials each)**  
 
-##📌 Contributors
+##📌 Contributors  
 👨‍💻 Alif Akbar Grafidi - Universitas Brawijaya
