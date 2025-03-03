@@ -19,3 +19,9 @@ This project is a **wearable device** that uses an **MPU6050** sensor to detect 
   - **Python** (For data processing & SVM training)  
   - **ESP-NOW** (For ESP32 communication)  
   - **Support Vector Machine** (Machine for posture classification)  
+
+## 📡 Installation & Usage  
+1️⃣ **Clone the Repository**  
+```bash
+git clone https://github.com/username/deadlift-wearable.git
+cd deadlift-wearable
